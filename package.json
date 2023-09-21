@@ -14,6 +14,9 @@
   },
   "ampt": {
     "app": "radio-ampt",
-    "org": "titoebiwonjumi158723"
-  }
+    "org": "ebiwonjumio"
+  },
+  "files": [
+    "*"
+  ]
 }
